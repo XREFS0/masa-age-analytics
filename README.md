@@ -1,4 +1,4 @@
-# MASA Age Analytics
+﻿# MASA Age Analytics
 
 A chronological lifespan calculation suite engineered in Python and CustomTkinter, providing exact day-month-year metrics and total elapsed hourly lifespan computations.
 
@@ -10,6 +10,10 @@ The codebase follows modular software engineering patterns and OOP structure, de
 - **Defensive Engineering**: Comprehensive validation guards protect against malformed inputs and runtime exceptions.
 - **Modern Design Tokens**: Designed with a high-contrast dark aesthetic adhering to modern developer tooling visual standards.
 
+
+## Preview
+
+![Application Interface](screenshots/app_interface.png)
 ## Features
 
 - Precise calendar math resolving leap year variations and variable month durations.
@@ -38,11 +42,12 @@ python "Simple Accurate Age Calculator App using Python/index.py"
 
 ```
 .
-├── Simple Accurate Age Calculator App using Python
-├── LICENSE             # MIT License
-└── README.md           # Developer documentation
+â”œâ”€â”€ Simple Accurate Age Calculator App using Python
+â”œâ”€â”€ LICENSE             # MIT License
+â””â”€â”€ README.md           # Developer documentation
 ```
 
 ## License
 
 This project is licensed under the terms of the MIT License. Refer to the `LICENSE` file for details.
+
